@@ -1,0 +1,17 @@
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\bin\Debug\net8.0-windows\ProjectC#2026.exe
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\bin\Debug\net8.0-windows\ProjectC#2026.deps.json
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\bin\Debug\net8.0-windows\ProjectC#2026.runtimeconfig.json
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\bin\Debug\net8.0-windows\ProjectC#2026.dll
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\bin\Debug\net8.0-windows\ProjectC#2026.pdb
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC_2026.Form1.resources
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC_2026.Properties.Resources.resources
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC#2026.csproj.GenerateResource.cache
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC#2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC#2026.AssemblyInfoInputs.cache
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC#2026.AssemblyInfo.cs
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC#2026.csproj.CoreCompileInputs.cache
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC#2026.dll
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\refint\ProjectC#2026.dll
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC#2026.pdb
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ProjectC#2026.genruntimeconfig.cache
+C:\Users\Qurbac\source\repos\ProjectC#2026\ProjectC#2026\obj\Debug\net8.0-windows\ref\ProjectC#2026.dll
